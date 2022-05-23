@@ -1,0 +1,58 @@
+/*Estilos da página index.html*/
+    .center {
+        text-align: center;
+    }
+    .justify {
+        text-align: justify;
+    }
+    .container {
+        display: flex;
+        flex-flow: row;
+        justify-content: center;
+        align-items: center;
+    }
+    #menu li {
+        display: inline;
+        padding: 20px;
+        background-color: #6a89cc;
+    }
+    #menu li a {
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+    }
+    #menu li a:hover {
+        color: rgb(52, 52, 144);
+    }
+    .p-30 {
+        padding: 50px;
+    }
+    .br-50 {
+    border-radius: 15%;
+    }
+    .wh-300 {
+        width: 400px;
+        height: 500px;
+    }
+    .tm-social {
+        width: 40px;
+        height: 40px;
+    }
+    .mb-50 {
+        margin-bottom: 50px;
+    }
+    .bg-h1 {
+        background-color: #6a89cc;
+    }
+    .bg-texto {
+        background-color: #6a89cc;
+    }
+    .bg-fundoall {
+        background-color: #6a89cc;
+    }
+
+/*Estilos da página contato.html*/
+
+.ml-50 {
+    margin-left: 50px;
+}
